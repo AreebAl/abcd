@@ -1,0 +1,19 @@
+.bg-color-dark{
+    background-color: grey;
+    height: 100vh;
+}
+
+.bg-color-light{
+    background-color: blue;
+    height: 100vh;
+}
+
+.form-check-label-dark .form-check-label{
+    color: rgb(181, 170, 170) ;
+}
+
+.form-check-label-light .form-check-label{
+    color: blueviolet
+}
+
+
